@@ -1,4 +1,4 @@
 baseURL = 'https://www.wire48.net/'
 languageCode = 'en-gb'
 title = 'wire48.net'
-theme = 'ananke'
+theme = 'terminal'
