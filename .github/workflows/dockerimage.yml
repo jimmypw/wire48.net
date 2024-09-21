@@ -36,8 +36,8 @@ jobs:
           platforms: linux/amd64,linux/arm64/v8
           cache-from: type=local,src=/tmp/.buildx-cache
           cache-to: type=local,dest=/tmp/.buildx-cache
-      - uses: actions-hub/kubectl@v1.31.1
+      - uses: actions-hub/kubectl@v1.30.3
         env:
-          KUBE_CONFIG: ${{ secrets.DEPLOYMENT_KUBECONFIG }}
+          KUBE_CONFIG: ${{ secrets.KUBE_CONFIG }}
         with:
           args: -n wire48 rollout restart deployment wire48
