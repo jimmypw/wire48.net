@@ -53,7 +53,7 @@ metadata:
   name: deployment-restarter
   namespace: default
 rules:
-- apiGroups: ["apps", "extensions"]
+- apiGroups: ["apps"]
   resources: ["deployments"]
   resourceNames: [] # blank list means anything
   verbs: ["get", "patch"]
