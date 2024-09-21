@@ -31,5 +31,7 @@ just dive in.
 ## Bouncer
 
 There is an [IRC Bouncer](https://en.wikipedia.org/wiki/BNC_(software)#IRC)
-available on https://bouncer.wire48.net using [ZNC](https://wiki.znc.in/ZNC). I
-use to bring a little bit of persistence to IRC. 
+available on
+https://bouncer.wire48.net:8099 using [ZNC](https://wiki.znc.in/ZNC). I use to
+bring a little bit of persistence to IRC. I'm the only user but im not opposed
+to others using it.
