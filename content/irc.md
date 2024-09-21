@@ -21,3 +21,15 @@ Beginner friendly
 More advanced
 
 * [irssi](https://irssi.org/)
+
+## Documentation
+
+If you're new to IRC then i suggest checking out the guides on
+[libera.chag](https://libera.chat/guides/) that should get you started. Then
+just dive in.
+
+## Bouncer
+
+There is an [IRC Bouncer](https://en.wikipedia.org/wiki/BNC_(software)#IRC)
+available on https://bouncer.wire48.net using [ZNC](https://wiki.znc.in/ZNC). I
+use to bring a little bit of persistence to IRC. 
