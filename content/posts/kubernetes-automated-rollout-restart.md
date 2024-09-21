@@ -1,6 +1,6 @@
 +++
 title = 'Automated deployment rollout in Kubernetes'
-date = 2024-09-16T07:47:01+01:00
+date = 2024-09-21T07:47:01+01:00
 +++
 
 # Kubernetes CI/CD rollout restart
