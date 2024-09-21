@@ -3,3 +3,10 @@ languageCode = 'en-gb'
 title = 'wire48.net'
 theme = 'terminal'
 sectionPagesMenu = 'main'
+
+[languages]
+  [languages.en]
+    title = "wire48.net"
+    subtitle = "A blog"
+    [languages.en.params.logo]
+      logoText = "wire48.net"
