@@ -5,9 +5,9 @@ title = 'IRC'
 
 There is a publicly accessable IRC server that I sometimes link projects up to.
 
-irc.wire48.net port 6697 (tls)
+`irc.wire48.net port 6697 (tls)`
 
-The main room is #wire48
+The main room is `#wire48`
 
 ## Clients
 
