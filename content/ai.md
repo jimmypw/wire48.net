@@ -1,6 +1,6 @@
 +++
 menus = 'main'
-title = 'Ai'
+title = 'AI'
 date = 2024-09-21T19:36:59+01:00
 +++
 
