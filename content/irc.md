@@ -25,7 +25,7 @@ More advanced
 ## Documentation
 
 If you're new to IRC then i suggest checking out the guides on
-[libera.chag](https://libera.chat/guides/) that should get you started. Then
+[libera.chat](https://libera.chat/guides/) that should get you started. Then
 just dive in.
 
 ## Bouncer
