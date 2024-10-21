@@ -1,13 +1,6 @@
 +++
 title = "Mastodon"
 date = "2024-10-20T18:42:34+01:00"
-author = "James Park-Watt"
-tags = ["", ""]
-keywords = ["", ""]
-description = ""
-showFullContent = false
-readingTime = false
-hideComments = false
 +++
 
 # Mastodon
