@@ -41,7 +41,7 @@ jobs:
       - uses: GuillaumeFalourd/wait-sleep-action@v1
         with:
           time: '10' # for 60 seconds
-      - uses: actions-hub/kubectl@v1.30.3
+      - uses: actions-hub/kubectl@v1.31.3
         env:
           KUBE_CONFIG: ${{ secrets.KUBE_CONFIG }}
         with:
