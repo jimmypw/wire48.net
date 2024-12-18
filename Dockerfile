@@ -29,6 +29,9 @@ RUN hugo --minify --enableGitInfo
 # Copy the generated files to keep the image as small as possible.
 FROM hugomods/hugo:nginx
 
+# Add nginx config that runs on unprivileged port
+COPY config/default.conf /etc/nginx/conf.d/default.conf
+
 # Copy the generated files to keep the image as small as possible.
 
 COPY --from=builder /src/public /site
