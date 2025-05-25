@@ -11,4 +11,3 @@ There is a private openttd server at:-
 
 openttd.wire48.net:3979
 
-Join the conversation at #openttd on [IRC]({{< ref "/irc" >}})
