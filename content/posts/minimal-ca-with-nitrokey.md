@@ -1,7 +1,7 @@
 +++
 title = 'Minimal CA With Nitrokey'
 date = 2025-06-13T07:04:21+01:00
-draft = true
+draft = false
 +++
 
 # Minimal CA with Nitrokey
